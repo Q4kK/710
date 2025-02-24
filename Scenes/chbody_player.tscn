@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://b2p6c14gs7tfx"]
 
 [ext_resource type="Texture2D" uid="uid://yxuknjgcj4yo" path="res://Sprite_Sheets/player/idle/player_spirit_v1.png" id="1_0klum"]
-[ext_resource type="Script" path="res://spr_player.gd" id="2_dvbog"]
+[ext_resource type="Script" path="res://Scenes/spr_player.gd" id="2_dvbog"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_t8u2l"]
 
