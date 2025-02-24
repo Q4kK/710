@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://yxuknjgcj4yo"
-path="res://.godot/imported/player_spirit_v1.png-441a1a3c10fffe07c87bcac317377ef6.ctex"
+uid="uid://b3fbupq6s6fdg"
+path="res://.godot/imported/tile_type_EKG.png-68cad3912dd97286be1c58a551d557ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprite_Sheets/player/idle/player_spirit_v1.png"
-dest_files=["res://.godot/imported/player_spirit_v1.png-441a1a3c10fffe07c87bcac317377ef6.ctex"]
+source_file="res://spritesheets/Tilesets/tile_type_EKG.png"
+dest_files=["res://.godot/imported/tile_type_EKG.png-68cad3912dd97286be1c58a551d557ba.ctex"]
 
 [params]
 

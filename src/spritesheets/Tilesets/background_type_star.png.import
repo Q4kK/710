@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ipwk765j0aho"
-path="res://.godot/imported/background_type_star_animated.png-d48cf03235f225b8d821564960e9d3e4.ctex"
+uid="uid://c8v64g7oj8sv3"
+path="res://.godot/imported/background_type_star.png-2cfd6928fd8752dc759ec9dcef887440.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprite_Sheets/Tilesets/background_type_star_animated.png"
-dest_files=["res://.godot/imported/background_type_star_animated.png-d48cf03235f225b8d821564960e9d3e4.ctex"]
+source_file="res://spritesheets/Tilesets/background_type_star.png"
+dest_files=["res://.godot/imported/background_type_star.png-2cfd6928fd8752dc759ec9dcef887440.ctex"]
 
 [params]
 
